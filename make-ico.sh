@@ -3,7 +3,10 @@
 set -e
 
 svg=$1
-ico=${2:-"favicon.ico"}
+filename=${svg%.*}
+ico=${2:-"$filename.ico"}
+echo "$filename"
+echo "$ico"
 
 size=(16 32 24 48 64 72 96 144 152 192 196 256)
 
@@ -22,7 +25,7 @@ echo Compressing...
 # optipng -o7 "$out/*.png"
 find "$out" -name "*.png" -exec pngquant -f --ext .png 256 {} +
 
-echo Converting to favicon.ico...
+echo Converting to $ico...
 
 convert "$out/*.png" "$ico"
 

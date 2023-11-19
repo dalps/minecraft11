@@ -122,10 +122,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1881"
-       x="-0.086771888"
+       x="-0.086771889"
        width="1.1735438"
-       y="-0.37883333"
-       height="1.7576667"><feGaussianBlur
+       y="-0.37883325"
+       height="1.7576665"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.85615684"
          id="feGaussianBlur1883" /></filter><clipPath
@@ -453,7 +453,7 @@
          sodipodi:insensitive="true" /></g></g><g
      id="g9"
      inkscape:label="grids"
-     style="display:inline;fill-opacity:1"
+     style="display:none;fill-opacity:1"
      sodipodi:insensitive="true"><path
        id="path8"
        style="display:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.0264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.497647;paint-order:stroke fill markers"
