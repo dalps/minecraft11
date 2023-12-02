@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-6.5"
-     inkscape:cy="96.5"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="129.04699"
+     inkscape:cy="146.3711"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
@@ -40,7 +40,7 @@
      inkscape:showpageshadow="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#3f3f3f"
-     showguides="true"><sodipodi:guide
+     showguides="false"><sodipodi:guide
        position="4.2328765,10.722258"
        orientation="1,0"
        id="guide1"
@@ -122,10 +122,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1881"
-       x="-0.086771889"
+       x="-0.086771888"
        width="1.1735438"
-       y="-0.37883325"
-       height="1.7576665"><feGaussianBlur
+       y="-0.37883333"
+       height="1.7576667"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.85615684"
          id="feGaussianBlur1883" /></filter><clipPath
@@ -346,7 +346,7 @@
      id="g1"
      inkscape:label="folder"
      style="display:inline"
-     transform="matrix(0.74746458,0,0,0.74746458,-26.461175,-145.11302)"
+     transform="matrix(0.74746458,0,0,0.74746458,-26.461175,-146.83527)"
      clip-path="none"><g
        id="g14"
        inkscape:label="back"
@@ -445,7 +445,7 @@
          sodipodi:insensitive="true" /></g></g><path
      id="path11"
      style="display:none;mix-blend-mode:normal;fill-opacity:1;stroke:#000000;stroke-width:0.188976;stroke-linecap:round;stroke-dasharray:0.566929, 0.566929;stroke-dashoffset:0;stroke-opacity:0.496471;paint-order:stroke fill markers"
-     transform="matrix(0,-0.26458333,0.26458333,0,-52.778218,61.243964)"
+     transform="matrix(0,-0.26458333,0.26458333,0,-52.778218,59.521718)"
      d="M 15.998267,215.47501 198.0013,215.47488 M 15.998234,229.47522 198.00126,229.47509 M 15.998201,243.47543 198.00123,243.4753 M 15.998168,257.47564 198.0012,257.47551 M 15.998135,271.47585 198.00116,271.47572 M 15.998102,285.47606 198.00113,285.47593 M 15.998069,299.47627 198.0011,299.47614 M 15.998036,313.47648 198.00106,313.47635 M 15.998003,327.47669 198.00103,327.47656 M 15.99797,341.4769 198.001,341.47677 M 15.997937,355.47711 198.00097,355.47698 M 15.997904,369.47732 198.00093,369.47719 M 15.997871,383.47753 198.0009,383.4774 M 15.997838,397.47774 198.00087,397.47761 M 15.997805,411.47795 198.00083,411.47782 M 15.997772,425.47816 198.0008,425.47803 M 15.997739,439.47837 198.00077,439.47824 M 15.998267,215.47501 15.997739,439.47837 M 29.9985,215.475 29.997972,439.47836 M 43.998733,215.47499 43.998205,439.47835 M 57.998966,215.47498 57.998438,439.47834 M 71.999199,215.47497 71.998671,439.47833 M 85.999432,215.47496 85.998904,439.47832 M 99.999665,215.47495 99.999137,439.47831 M 113.9999,215.47494 113.99937,439.4783 m 14.00076,-224.00337 -5.3e-4,224.00336 m 14.00076,-224.00337 -5.2e-4,224.00336 m 14.00076,-224.00337 -5.3e-4,224.00336 m 14.00076,-224.00337 -5.3e-4,224.00336 m 14.00076,-224.00337 -5.2e-4,224.00336 m 14.00076,-224.00337 -5.3e-4,224.00336"
      sodipodi:nodetypes="ccc"
      inkscape:label="grid8"

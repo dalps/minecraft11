@@ -482,11 +482,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="91"
-     inkscape:cy="88.5"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-16.263456"
+     inkscape:cy="103.9447"
      inkscape:document-units="mm"
-     inkscape:current-layer="g13"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
@@ -612,7 +612,7 @@
      id="g1"
      inkscape:label="folder"
      style="display:inline"
-     transform="matrix(0.74746458,0,0,0.74746458,-26.461175,-145.11302)"
+     transform="matrix(0.74746458,0,0,0.74746458,-26.461175,-146.83226)"
      clip-path="none"><g
        id="g14"
        inkscape:label="back"
@@ -641,7 +641,7 @@
          style="opacity:0.152;mix-blend-mode:normal"><path
            id="rect84"
            style="display:inline;fill:#7f7f7f;fill-opacity:1;stroke-width:0.133786;stroke-linecap:round;paint-order:stroke fill markers"
-           d="M 114.6839 208.47215 L 114.6839 225.08405 L 120.34335 225.08405 L 120.34335 208.47215 L 114.6839 208.47215 z M 46.719436 208.47975 L 46.719436 213.76309 L 52.381643 213.76309 L 52.381643 208.47975 L 46.719436 208.47975 z M 63.710207 208.48113 L 63.710207 213.75826 L 75.037388 213.75826 L 75.037388 208.48113 L 63.710207 208.48113 z M 41.057919 208.4839 L 41.057919 230.76355 L 46.718053 230.76355 L 46.718053 208.4839 L 41.057919 208.4839 z M 92.027469 213.75549 L 92.027469 219.42323 L 97.692442 219.42323 L 97.692442 213.75549 L 92.027469 213.75549 z M 63.712973 213.75895 L 63.712973 225.09235 L 69.373798 225.09235 L 69.373798 213.75895 L 63.712973 213.75895 z M 58.047308 213.76033 L 58.047308 219.43014 L 63.710899 219.43014 L 63.710899 213.76033 L 58.047308 213.76033 z "
+           d="m 114.6839,208.47215 v 16.6119 h 5.65945 v -16.6119 z m -67.964464,0.008 v 5.28334 h 5.662207 v -5.28334 z m 16.990771,0.001 v 5.27713 h 11.327181 v -5.27713 z m -22.652288,0.003 v 22.27965 h 5.660134 V 208.4839 Z m 50.96955,5.27159 v 5.66774 h 5.664973 v -5.66774 z m -28.314496,0.003 v 11.3334 h 5.660825 v -11.3334 z m -5.665665,0.001 v 5.66981 h 5.663591 v -5.66981 z"
            transform="translate(-41.064836,-208.48516)" /></g></g><g
        id="g13"
        inkscape:label="front"

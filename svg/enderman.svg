@@ -218,10 +218,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1881"
-       x="-0.086771889"
+       x="-0.086771888"
        width="1.1735438"
-       y="-0.37883325"
-       height="1.7576665"><feGaussianBlur
+       y="-0.37883333"
+       height="1.7576667"><feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.85615684"
          id="feGaussianBlur1883" /></filter><clipPath
@@ -463,9 +463,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="93.691649"
-     inkscape:cy="44.194174"
+     inkscape:zoom="2"
+     inkscape:cx="160"
+     inkscape:cy="41.5"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
@@ -593,7 +593,7 @@
      id="g1"
      inkscape:label="folder"
      style="display:inline"
-     transform="matrix(0.74746458,0,0,0.74746458,-26.461175,-145.11302)"
+     transform="matrix(0.74746458,0,0,0.74746458,-26.461175,-146.83527)"
      clip-path="none"><g
        id="g14"
        inkscape:label="back"
