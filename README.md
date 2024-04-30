@@ -1,14 +1,17 @@
 <p align="center">
-  <img src="art/logo.png" width="300" alt="logo"/>
-</p>
-
-<p align="center">
-  <img src="art/preview.png" width="350" alt="logo"/>
+  <img src="art/logo.png" width="250" alt="logo"/>
 </p>
 
 # Minecraft11
 
-This is a collection of custom folder icons for Windows 11 featuring Minecraft mobs and blocks.
+Minecraft11 is a collection of custom folder icons for Windows 11 featuring Minecraft mobs and blocks.
+
+[![Full icon set downloads](https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.0.0.zip?sort=date&label=Full%20icon%20set&color=green)](https://github.com/dalps/minecraft11/releases/download/v1.0.0/minecraft11-v1.0.0.zip)
+[![Shulker box set downloads](https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.0.0-shulkerboxes.zip?sort=date&label=Shulker%20box%20set&color=green)](https://github.com/dalps/minecraft11/releases/download/v1.0.0/minecraft11-v1.0.0-shulkerboxes.zip)
+
+<p align="center">
+  <img src="art/preview.png" width="350" alt="logo"/>
+</p>
 
 Both `.svg` and `.ico` files are provided. You only need the contents of the `ico` folder if you want to use the icons in your file explorer.
 
