@@ -4,14 +4,13 @@
 set -e
 
 svg=$1
-name=${svg%.*}
-ico=${2:-"$name.ico"}
+name=$(basename ${svg%.*})
+target=icns/${2:-"$name.icns"}
 
-size=(16 32 24 48 64 72 96 144 152 192 196 256)
+size=(16 32 48 128 256)
 
 out=tmp
 mkdir -p "$out"
-target=ico/$(basename $ico)
 
 echo Making bitmaps from your svg...
 
@@ -25,7 +24,7 @@ find "$out" -name "*.png" -exec pngquant -f --ext .png 256 {} +
 
 echo Converting to $target...
 
-convert "$out/*.png" "$target"
+png2icns "$target" $out/*.png
 
 # Clean-up
 rm -rf "$out/"
