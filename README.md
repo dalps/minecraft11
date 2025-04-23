@@ -6,8 +6,10 @@
 
 Minecraft11 is a free collection of folder icons for Windows 11 featuring Minecraft mobs and blocks.
 
-[![Full icon set downloads](https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.0.0.zip?sort=date&label=Full%20icon%20set&color=green)](https://github.com/dalps/minecraft11/releases/download/v1.0.0/minecraft11-v1.0.0.zip)
-[![Shulker box set downloads](https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.0.0-shulkerboxes.zip?sort=date&label=Shulker%20box%20set&color=green)](https://github.com/dalps/minecraft11/releases/download/v1.0.0/minecraft11-v1.0.0-shulkerboxes.zip)
+[![Full icon set downloads](https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.1.0.zip?label=Full%20icon%20set&color=green
+)](https://github.com/dalps/minecraft11/releases/download/v1.1.0/minecraft11-v1.1.0.zip)
+[![Shulker box set downloads](https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.1.0-shulkerboxes.zip?label=Shulker%20box%20set&color=green
+)](https://github.com/dalps/minecraft11/releases/download/v1.1.0/minecraft11-v1.1.0-shulkerboxes.zip)
 
 <p align="center">
   <img src="art/preview.png" width="350" alt="logo"/>
