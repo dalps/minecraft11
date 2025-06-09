@@ -1,0 +1,23 @@
+{
+  "name": "minecraft11",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <img src=\"art/logo.png\" width=\"250\" alt=\"logo\"/> </p>",
+  "homepage": "https://github.com/dalps/minecraft11#readme",
+  "bugs": {
+    "url": "https://github.com/dalps/minecraft11/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalps/minecraft11.git"
+  },
+  "license": "ISC",
+  "author": "dalps",
+  "type": "module",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "svgo": "^3.3.2"
+  }
+}
