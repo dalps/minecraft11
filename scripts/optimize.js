@@ -12,6 +12,9 @@ readdirSync("svg")
 
       plugins: [
         {
+          name: "preset-default",
+        },
+        {
           name: "prefixIds",
           params: {
             prefix,
