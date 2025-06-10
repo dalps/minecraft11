@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="256" height="256">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="256" height="256" viewBox="0 0 256 256">
   <defs>
     <pattern xlink:href="#command-block__e" id="command-block__y" x="0" y="0" patternTransform="translate(38.333 50)scale(.76189)" preserveAspectRatio="xMidYMid"/>
     <pattern id="command-block__e" width="224.004" height="224.004" patternTransform="translate(15.998 -8.53)" patternUnits="userSpaceOnUse" preserveAspectRatio="xMidYMid">

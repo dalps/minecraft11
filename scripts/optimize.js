@@ -17,6 +17,12 @@ readdirSync("svg")
             prefix,
           },
         },
+        {
+          name: "addAttributesToSVGElement",
+          params: {
+            attributes: [{ viewBox: "0 0 256 256" }],
+          },
+        },
       ],
     });
 

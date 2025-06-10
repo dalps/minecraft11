@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="256" height="256">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="256" height="256" viewBox="0 0 256 256">
   <defs>
     <filter id="bookshelf__Q" width="1.174" height="1.758" x="-.087" y="-.379" style="color-interpolation-filters:sRGB">
       <feGaussianBlur stdDeviation=".856"/>

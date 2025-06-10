@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="256" height="256">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="256" height="256" viewBox="0 0 256 256">
   <defs>
     <pattern xlink:href="#guardian__f" id="guardian__v" patternTransform="matrix(.26459 0 0 .26459 25.756 -65.969)" preserveAspectRatio="xMidYMid"/>
     <pattern xlink:href="#guardian__g" id="guardian__t" patternTransform="matrix(.26459 0 0 .26459 23.988 52.92)" preserveAspectRatio="xMidYMid"/>
