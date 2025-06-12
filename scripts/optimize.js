@@ -12,9 +12,18 @@ readdirSync("svg")
 
       plugins: [
         {
+          name: "preset-default",
+        },
+        {
           name: "prefixIds",
           params: {
             prefix,
+          },
+        },
+        {
+          name: "addAttributesToSVGElement",
+          params: {
+            attributes: [{ viewBox: "0 0 256 256" }],
           },
         },
       ],
