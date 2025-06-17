@@ -3,6 +3,7 @@ default:
 
 optimize:
     node scripts/optimize.js
+    sed -i 's/image-rendering:optimizeSpeed/image-rendering:pixelated/g' svg/*.svg
 
 render svg:
     ./scripts/make-ico.sh {{svg}}
