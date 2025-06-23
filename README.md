@@ -2,6 +2,13 @@
   <img src="art/logo.png" width="250" alt="logo"/>
 </p>
 
+> [!IMPORTANT]
+> NOT an official Minecraft product.
+> 
+> These icons are by no means official, approved nor endorsed by Mojang.
+> 
+> All the textures used in these icons belong to them.
+
 # Minecraft11
 
 Minecraft11 is a free collection of folder icons for Windows 11 featuring Minecraft mobs and blocks.
