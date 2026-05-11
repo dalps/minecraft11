@@ -21,6 +21,6 @@ for file in "$directory"/*; do
     nameext=${file#*/}
     name=${nameext%.*}
     echo "Rendering $file.png..."
-    inkscape $file --export-type=png -o "$out/$name.png"
+    inkscape $file --export-type=png -o "$out/$name.png" -w 1000 -h 1000
   fi
 done
