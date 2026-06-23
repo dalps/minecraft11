@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=dalps&project=minecraft11&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <p align="center">
   <a href="https://m11.dalp.sh">
     <img src="art/logo.png" width="250" alt="logo"/>
