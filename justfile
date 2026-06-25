@@ -27,6 +27,7 @@ clean:
 # version format: v1.2.3
 release version:
     mkdir tmp
-    zip -r 'tmp/minecraft11-{{version}}.zip' ico icns
-    zip -r 'tmp/minecraft11-{{version}}-shulkerboxes.zip' ico/shulkerbox* icns/shulkerbox*
-    # gh release create {{version}}
+    zip -r 'tmp/minecraft11.zip' ico icns
+    zip -r 'tmp/minecraft11-shulkerboxes.zip' ico/shulkerbox* icns/shulkerbox*
+    gh release create v{{version}}
+    gh release upload v{{version}} tmp/minecraft11-*

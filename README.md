@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dalps/minecraft11/releases/download/v1.1.0/minecraft11-v1.1.0.zip"><img src="https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.1.0.zip?label=Full%20icon%20set&color=green" alt="Full icon set download count"></a>
+  <a href="https://github.com/dalps/minecraft11/releases/latest/download/minecraft11.zip"><img src="https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11.zip?label=Full%20icon%20set&color=green" alt="Full icon set download count"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/dalps/minecraft11/releases/download/v1.1.0/minecraft11-v1.1.0-shulkerboxes.zip"><img src="https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-v1.1.0-shulkerboxes.zip?label=Shulker%20box%20set&color=green" alt="Shulker box set download count"></a>
+  <a href="https://github.com/dalps/minecraft11/releases/latest/download/minecraft11-shulkerboxes.zip"><img src="https://img.shields.io/github/downloads/dalps/minecraft11/latest/minecraft11-shulkerboxes.zip?label=Shulker%20box%20set&color=green" alt="Shulker box set download count"></a>
 </p>
 
 > [!IMPORTANT]
@@ -24,6 +24,8 @@
 # Minecraft11
 
 Minecraft11 is a fun and free collection of folder icons for Windows 11 featuring Minecraft mobs and blocks. 
+
+<!-- Organize your files and develop visual mnemonics that help you quickly navigate your file system in a fun way! -->
 
 <p align="center">
   <img src="art/preview.png" width="350" alt="logo"/>
